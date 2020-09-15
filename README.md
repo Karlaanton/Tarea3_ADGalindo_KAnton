@@ -1,2 +1,2 @@
-# Tarea3_ADGalindo_KAnton
-Tarea 3 Simulación de Procesos Financieros
+# Tareas_ADGalindo_KAnton
+Tareas Simulación de Procesos Financieros
